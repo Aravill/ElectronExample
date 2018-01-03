@@ -15,15 +15,20 @@ This is a simple example application built on NodeJS and Electron
 ## Installation
 
 To install the required dependencies, run this command inside the /src directory
+
 ```sh
 npm install electron --save
-```s
+```
+
 The --save flag is recommended to save the dependecy into package.json
+
 ## How to run
+
 To start the application, run this command inside the /src directory
+
 ```sh
 npm start
-```s
+```
 
 ## Resources
 
