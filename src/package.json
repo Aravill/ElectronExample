@@ -1,0 +1,14 @@
+{
+  "name": "ElectronExampleApp",
+  "version": "1.0.0",
+  "autor": "Aravill",
+  "main": "app.js",
+  "description": "An example To-Do list application in electron",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^1.7.10"
+  }
+}

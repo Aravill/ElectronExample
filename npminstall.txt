@@ -1,0 +1,4 @@
+** This command will install the necessary node modules **
+**      Run this command in the /bot/src directory      **
+
+npm install electron --save
